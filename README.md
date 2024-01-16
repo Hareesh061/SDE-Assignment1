@@ -1,4 +1,4 @@
-# created a React projects to complete SDE role Assignment. 
+# Created a React projects to complete SDE role Assignment. 
 
 **About: The project involves creating an AutoCompleteChips component in React using TypeScript, along with styling using CSS.**
 
