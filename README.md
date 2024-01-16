@@ -1,46 +1,18 @@
-# Getting Started with Create React App
+# created a React projects to complete SDE role Assignment. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+**About: The project involves creating an AutoCompleteChips component in React using TypeScript, along with styling using CSS.**
 
-## Available Scripts
+**Technologies used:**
+**React:** A JavaScript library for building user interfaces. React allows developers to create reusable UI components and efficiently update the user interface in response to changing data.
 
-In the project directory, you can run:
+**TypeScript:** A superset of JavaScript that adds static typing. TypeScript helps catch errors during development and provides better tooling support for code editors.
 
-### `npm start`
+**CSS:** Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in HTML or XML. In this project, the styling is done using CSS to create a visually appealing and responsive user interface.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**HTML:** Hypertext Markup Language is the standard markup language for creating web pages. In this project, HTML is used to structure the content and define the elements of the AutoCompleteChips component.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Tailwind CSS:** A utility-first CSS framework that provides a set of pre-designed utility classes. It allows for rapid development and easy customization of styles without the need to write custom CSS. Tailwind CSS is used for styling in this project.
 
-### `npm test`
+The overall structure of the project involves creating a React component (AutoCompleteChips.tsx) that manages state, handles user interactions, and renders the UI. TypeScript is used to add static typing to the React component, providing better code reliability and tooling support. The styling is achieved using Tailwind CSS, which offers a convenient way to apply styles using utility classes.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Keep Learning..!**
