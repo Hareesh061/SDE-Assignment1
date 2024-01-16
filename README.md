@@ -2,6 +2,8 @@
 
 **About: The project involves creating an AutoCompleteChips component in React using TypeScript, along with styling using CSS.**
 
+# Demo Link: https://65a65f3ee816a2031d1360e2--sprightly-cactus-012965.netlify.app
+
 **Technologies used:**
 **React:** A JavaScript library for building user interfaces. React allows developers to create reusable UI components and efficiently update the user interface in response to changing data.
 
@@ -15,7 +17,8 @@
 
 The overall structure of the project involves creating a React component (AutoCompleteChips.tsx) that manages state, handles user interactions, and renders the UI. TypeScript is used to add static typing to the React component, providing better code reliability and tooling support. The styling is achieved using Tailwind CSS, which offers a convenient way to apply styles using utility classes.
 
-EX:
+
+
 <img width="960" alt="image" src="https://github.com/Hareesh061/SDE-Assignment1/assets/90563881/cd04090c-9fe5-4eee-8491-d233e73e7d75">
 
 
